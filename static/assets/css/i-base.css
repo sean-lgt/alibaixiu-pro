@@ -1,0 +1,33 @@
+/* 前台页面公共样式 */
+*,
+::before,
+::after {
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+}
+
+body {
+    font-size: 14px;
+    font-family: "Microsoft YaHei", sans-serif;
+    color: #000000;
+    background-color: #eeeeee;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #ff5e52;
+}
+
+ul {
+    list-style: none;
+}
+
+i {
+    font-style: normal;
+}
